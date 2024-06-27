@@ -27,6 +27,8 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
