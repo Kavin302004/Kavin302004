@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kavin302004/Kavin302004/output/snake.svg" alt="Snake animation" />
+<img src="https://www.mobintouch.com/wp-content/uploads/2020/03/ReactNativeTypingAnimation.gif" />
 
 ###
