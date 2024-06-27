@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="200" alt="streak graph" /> <br>
 </div>
 <h2 align="center">Hiello world👋! I'm Kavin and I'm a  Aspiring Software Developer, from<br> Chennai, India</h2>
