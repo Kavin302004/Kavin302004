@@ -49,7 +49,6 @@
 
 <br clear="both">
 
-![image](https://github.com/Kavin302004/Kavin302004/assets/140266232/3438c6f7-3877-40b6-9e4f-4f9a4fed63ab)
 
 
 ###
