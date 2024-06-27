@@ -1,9 +1,10 @@
-<div align="center">
-   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="270" alt="streak graph" /> <br>
-</div>
+
 <h2 align="center">Hiello world👋! I'm Kavin and I'm a  Aspiring Software Developer, from<br> Chennai, India</h2>
 
 ###
+<div align="center">
+   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" height="270" alt="streak graph" /> <br>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kavin302004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
