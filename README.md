@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world👋! I'm Kavin and I'm a Aspiring Software Developer,<br>Chennai, India
+Hello world👋! I'm Kavin and I'm a Aspiring Software Developer,Chennai, India
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sri_Sivasubramaniya_Nadar_College_of_Engineering.svg/800px-Sri_Sivasubramaniya_Nadar_College_of_Engineering.svg.png" height="70" alt="LinkedIn" />
 
