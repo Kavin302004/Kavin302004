@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello world👋! I'm Kavin and I'm a Aspiring Software Developer,<br>Chennai, India
-![image](https://github.com/Kavin302004/Kavin302004/assets/140266232/dc748a7b-33d3-47be-9bb9-d420f31d72d5)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sri_Sivasubramaniya_Nadar_College_of_Engineering.svg/800px-Sri_Sivasubramaniya_Nadar_College_of_Engineering.svg.png" height="100" alt="LinkedIn" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/525226696421670913) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__kavin__30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-t-026099274/) 
